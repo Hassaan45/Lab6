@@ -1,0 +1,8 @@
+List<string> groceryStores = new List<string>
+        {
+            "Walmart",
+            "Costco",
+            "Kroger",
+            "Whole Foods",
+            "Safeway"
+        };
